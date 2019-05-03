@@ -2,23 +2,51 @@
 Exercises DOM
 
 1. QuerySelector and querySelectorAll
-- forEach loops
+  - forEach loops
+
 2. Menu 
-- changing active link
+  - changing active link
+  
+    Live: https://mczarnecka.github.io/JS-DOM-exercises/2-menu/
+  
 3. Links
-- changing active link and tab without page reloading
+  - changing active link and tab without page reloading
+  
+    Live: https://mczarnecka.github.io/JS-DOM-exercises/3-links/
+  
 4. Toggle buttons
-- display flex and display none
+  - display flex and display none
+  
+    Live: https://mczarnecka.github.io/JS-DOM-exercises/4-toggle/
+  
 5. User-list 
-- add user (templates)
-- delete user
+  - add user (templates)
+  - delete user
+  
+    Live: https://mczarnecka.github.io/JS-DOM-exercises/5-user-list/
+  
 6. List 
-- add elements
-- clone elements 
-- delete elements
+  - add elements
+  - clone elements 
+  - delete elements
+  
+    Live: https://mczarnecka.github.io/JS-DOM-exercises/6-list/
+  
 7. Map-markers
-- create marker tooltip on map
+  - create marker tooltip on map
+  
+    Live: https://mczarnecka.github.io/JS-DOM-exercises/7-map-markers/
+  
 8. Menu-scroll
-- menu scroll to view on click
+  - menu scroll to view on click
+  
+    Live: https://mczarnecka.github.io/JS-DOM-exercises/8-menu-scroll/
+  
 9. Main-menu
-- image menu with transition
+  - image menu with transition
+  
+    Live: https://mczarnecka.github.io/JS-DOM-exercises/9-main-menu/
+
+
+
+Copyright &copy; kursjs.pl
